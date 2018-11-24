@@ -1,0 +1,6 @@
+CREATE TABLE COMPANY(
+   SID TEXT PRIMARY KEY     NOT NULL,
+   NAME           TEXT    NOT NULL,
+   ADDRESS        CHAR(50),
+   AGE            TEXT     NOT NULL
+);
