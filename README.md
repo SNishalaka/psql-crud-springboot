@@ -10,4 +10,4 @@ Spring boot crud application with PostgresSQL (psql)
    <version>42.2.5</version>   
 </dependency>
 ```
-:+1: This PR looks great for basic spring boot crud with psql - it's ready to merge! :shipit:
+This PR looks great for basic spring boot crud with psql - it's ready to merge! :+1:
