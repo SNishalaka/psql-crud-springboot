@@ -1,13 +1,13 @@
 # psql-crud-springboot
 Spring boot crud application with PostgresSQL (psql)
 
-###### [Dependency](https://mvnrepository.com/artifact/org.postgresql/postgresql/42.2.5) for [Postgresql](https://www.postgresql.org/)
+- ###### [Dependency](https://mvnrepository.com/artifact/org.postgresql/postgresql/42.2.5) for [Postgresql](https://www.postgresql.org/)
 
 ```
 <dependency>
-            <groupId>org.postgresql</groupId>       
-            <artifactId>postgresql</artifactId>
-            <version>42.2.5</version>   
+   <groupId>org.postgresql</groupId>       
+   <artifactId>postgresql</artifactId>
+   <version>42.2.5</version>   
 </dependency>
 ```
 
