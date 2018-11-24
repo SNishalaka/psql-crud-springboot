@@ -1,2 +1,12 @@
 # psql-crud-springboot
 Spring boot crud application with PostgresSQL (psql)
+
+*dependency for* [Postgresql](https://www.postgresql.org/)
+
+`<dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.2.5</version>
+</dependency>`
+
+@SNishalaka :+1: This PR looks great - it's ready to merge! :shipit:
